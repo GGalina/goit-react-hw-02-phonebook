@@ -51,6 +51,7 @@ export const Button = styled.button`
     background-color: #62cbde;
     border: none;
     outline: none;
+    cursor: pointer;
     :hover {
         background-color: #55bb55;
     }
@@ -87,6 +88,7 @@ export const DeleteBtn = styled.button`
     background-color: #62cbde;
     border: none;
     outline: none;
+    cursor: pointer;
     :hover {
         background-color: #F55b50;
     }
